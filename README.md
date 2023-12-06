@@ -2,7 +2,7 @@
 Vergleich der Konversion von "Bidding"-Methoden durch den AB-Test
 
 
-Projektübersicht
+PROJEKTÜBERSICHT
 
 ##################
 Geschäftsproblem
@@ -25,4 +25,21 @@ Click: Anzahl der Klicks auf die angezeigte Anzeige
 Purchase: Anzahl der gekauften Produkte nach angeklickter Werbung
 Earning: Verdienst nach gekauften Produkten
 
-Projek
+ANWENDUNG DES AB_TESTS
+
+In diesem Projekt wurde ein unabhängiger T-Test mit zwei Stichproben verwendet.
+
+1-die Aufstellung von Hypothesen
+2-überprüfung der Annahmen
+  -die Normalitätsannahme (Shapiro)
+  -die Homogenität der Varianz (Levene)
+3.die Umsetzung der Hypothese
+4. Interpretation der Ergebnisse anhand des p-Wertes
+
+Hinweis
+- Wenn die Normalität nicht erfüllt ist, wird ein direkter nonparametrischer Mannwhitneyu-Test durchgeführt.  Wenn die Homogenität der Varianz nicht gewährleistet ist, werden die Argumente in den unabhängigen T-Test mit zwei Stichproben eingegeben.
+- Es kann sinnvoll sein, vor der Normalitätsprüfung eine Ausreißeranalyse und -korrektur durchzuführen.
+
+
+
+
