@@ -29,15 +29,15 @@ ANWENDUNG DES AB_TESTS
 
 In diesem Projekt wurde ein unabhängiger T-Test mit zwei Stichproben verwendet.
 
-1-die Aufstellung von Hypothesen
+1-Aufstellung von Hypothesen
 
-2-überprüfung der Annahmen
+2-Überprüfung der Annahmen
 
   -die Normalitätsannahme (Shapiro)
   
   -die Homogenität der Varianz (Levene)
   
-3.die Umsetzung der Hypothese
+3.Umsetzung der Hypothese
 
 4.Interpretation der Ergebnisse anhand des p-Wertes
 
