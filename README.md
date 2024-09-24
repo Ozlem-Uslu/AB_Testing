@@ -21,8 +21,11 @@ Variablen im Datensatz
 ####################
 
 Impression: Anzahl der Anzeigenaufrufe
+
 Click: Anzahl der Klicks auf die angezeigte Anzeige
+
 Purchase: Anzahl der gekauften Produkte nach angeklickter Werbung
+
 Earning: Verdienst nach gekauften Produkten
 
 ANWENDUNG DES AB_TESTS
